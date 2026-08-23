@@ -45,11 +45,42 @@ XXD Panel 031 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **每个图形都有职责：** 每一个元素都有来源、有寓意、有结构作用，泛传统符号与装饰散点全部删除。
 - **文字服从几何：** 一个简短标题与必要的微型注释沿轴线、切线、负形或边界对齐、嵌套或穿插。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 031 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+### 主样张 · VOL.031
 
-未来样张只用于展示 031 对不同题材的适应力，不会把样张主体、留白比例、配色、文案或画幅变成生成参考或默认值。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090606881987600812) · 2026-08-21<br>
+> GPT2 x 拓印粗粝 x 做旧 x 印刷 x 美学提示词 x VOL.031
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 031 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 031 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812">查看原推文与完整提示词 →</a></p>
+
+### 补充样张
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090753061857931599) · 2026-08-21<br>
+> GPT2 x 几何 x 美学 x 提示词 x 补充<br>
+> 作者确认该补充样张同属 XXD Panel 031。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-01.jpg" alt="XXD Panel 031 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-02.jpg" alt="XXD Panel 031 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-03.jpg" alt="XXD Panel 031 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-04.jpg" alt="XXD Panel 031 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 031 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一套寓意几何系统
 

@@ -46,11 +46,42 @@ If an unrelated photograph could replace the source without materially changing 
 - **Every form earns its place:** each element has a source, meaning, and structural duty; random folklore motifs and decorative scatter are removed.
 - **Subordinate typography:** one concise title and only useful micro-notes align, nest, or interweave with an axis, tangent, negative shape, or boundary.
 
-## Samples · Coming soon
+## Samples · From X
 
-The repository reserves [`assets/examples/`](assets/examples/) for future work. Only finished 031 artwork verified by the project owner will be added; no post or image from another style is used as a placeholder.
+### Primary samples · VOL.031
 
-Future samples will demonstrate 031's adaptability. Their subjects, whitespace ratios, palette, copy, and canvas ratios will never become generation references or defaults.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090606881987600812) · 2026-08-21<br>
+> GPT2 x 拓印粗粝 x 做旧 x 印刷 x 美学提示词 x VOL.031
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 031 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 031 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812">View the original post and full prompt →</a></p>
+
+### Supplemental samples
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090753061857931599) · 2026-08-21<br>
+> GPT2 x 几何 x 美学 x 提示词 x 补充<br>
+> The author confirmed that this supplemental set also belongs to XXD Panel 031.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-01.jpg" alt="XXD Panel 031 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-02.jpg" alt="XXD Panel 031 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-03.jpg" alt="XXD Panel 031 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-04.jpg" alt="XXD Panel 031 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 031 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four outputs, one meaning-led geometric system
 

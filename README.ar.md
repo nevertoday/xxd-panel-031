@@ -47,11 +47,42 @@ XXD Panel 031 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **لكل شكل وظيفة:** لكل عنصر أصل ومعنى ودور بنيوي، وتحذف الرموز التقليدية العامة والنقاط الزخرفية.
 - **النص يخضع للهندسة:** يصطف العنوان الموجز والملاحظات المفيدة أو تتعشق مع محور أو مماس أو فراغ سالب أو حد.
 
-## النماذج · قريباً
+## النماذج · من X
 
-يحتفظ المستودع بمجلد [`assets/examples/`](assets/examples/) للأعمال القادمة. لن يُضاف إلا عمل مكتمل بأسلوب 031 ومؤكد من صاحب المشروع؛ ولن تُستخدم منشورات أو صور من أساليب أخرى كعناصر مؤقتة.
+### النماذج الأساسية · VOL.031
 
-ستعرض النماذج القادمة قدرة 031 على التكيف فقط، ولن تصبح موضوعاتها أو نسب الفراغ أو ألوانها أو نصوصها أو أبعادها مراجع للتوليد أو قيماً افتراضية.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090606881987600812) · 2026-08-21<br>
+> GPT2 x 拓印粗粝 x 做旧 x 印刷 x 美学提示词 x VOL.031
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 031 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 031 نموذج 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+### نماذج إضافية
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090753061857931599) · 2026-08-21<br>
+> GPT2 x 几何 x 美学 x 提示词 x 补充<br>
+> أكد المؤلف أن هذه المجموعة الإضافية تخص XXD Panel 031 أيضاً.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-01.jpg" alt="XXD Panel 031 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-02.jpg" alt="XXD Panel 031 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-03.jpg" alt="XXD Panel 031 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-04.jpg" alt="XXD Panel 031 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 031 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات ونظام واحد للدلالة والهندسة
 
