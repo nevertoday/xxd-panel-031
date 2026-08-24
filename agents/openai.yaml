@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-031"
-  short_description: "Create meaning-led geometric folk-rubbing graphics."
-  default_prompt: "Use $xxd-panel-031 to distil my photograph into one source-grounded symbolic motif and only narratively necessary supporting forms, organised by one source-derived geometric parent with crisp silhouette and negative space, bright paper, one dark structural ink, one or two source colours, restrained woodblock-rubbing and dry-screenprint texture, and native editorial copy; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 031 from its original style brief."
+  default_prompt: "Use $xxd-panel-031; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."
