@@ -22,30 +22,6 @@ XXD Panel 031 is an image-generation Skill for Codex and compatible agents. It f
 
 A circle, square, triangle, arc, axis, or repeated proportion is derived from the subject itself as one geometric parent. Motif, helpers, type, and whitespace share its alignments, tangencies, common axes, nesting, mirroring, progression, and crops. Bright paper, one deep structural ink, one or two source colours, and woodblock-rubbing or dry-screenprint wear inside crisp boundaries create a meeting of folk catalogue, antiquarian print, and contemporary design.
 
-## Why it exists
-
-“Traditional graphic” easily collapses into generic auspicious symbols, random ornament, literal translation of every object, or a fixed red-black-beige costume.
-
-031 reverses that logic:
-
-```text
-lock identity / proportion / gesture / relation → determine one supported meaning → retain one core motif and only narratively necessary helpers → derive one geometric parent from the subject → organise silhouette, negative space, merging, magnification, nesting, tangency, shared axes, mirroring, progression, and crop → use bright paper, one deep ink, and one or two source inks → keep rough print evidence inside precise geometry → align restrained copy to the same structure
-```
-
-If an unrelated photograph could replace the source without materially changing the core motif, supported meaning, geometric parent, silhouette/negative-space relation, ink hierarchy, or type alignment, the result is not 031.
-
-## The 031 visual contract
-
-- **Source identity:** at least three specific cues preserve proportion, contour flow, pose, direction, action, function, and relation.
-- **Source identity:** at least three specific cues preserve proportion, contour flow, pose, direction, action, function, and relation.
-- **Meaning before objects:** one supported theme, cultural property, or emotional relation decides what survives; the design never translates every visible element.
-- **One core motif:** silhouette, negative space, enlargement, form merging, and symbolic reduction keep identity while carrying the deeper meaning.
-- **One geometric parent:** a source-derived circle, square, triangle, arc, axis, or repeated ratio visibly governs motif, helpers, type, and whitespace.
-- **Roughness within order:** broken ink, abrasion, exposed paper, uneven density, and slight registration shift stay mainly inside crisp silhouettes and geometry.
-- **Source ink hierarchy:** bright paper, one deep structural ink, and one or two source-derived theme inks build clean area, value, and overprint relations.
-- **Every form earns its place:** each element has a source, meaning, and structural duty; random folklore motifs and decorative scatter are removed.
-- **Subordinate typography:** one concise title and only useful micro-notes align, nest, or interweave with an axis, tangent, negative shape, or boundary.
-
 ## Samples · From X
 
 ### Primary samples · VOL.031
@@ -82,6 +58,30 @@ If an unrelated photograph could replace the source without materially changing 
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 031 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Why it exists
+
+“Traditional graphic” easily collapses into generic auspicious symbols, random ornament, literal translation of every object, or a fixed red-black-beige costume.
+
+031 reverses that logic:
+
+```text
+lock identity / proportion / gesture / relation → determine one supported meaning → retain one core motif and only narratively necessary helpers → derive one geometric parent from the subject → organise silhouette, negative space, merging, magnification, nesting, tangency, shared axes, mirroring, progression, and crop → use bright paper, one deep ink, and one or two source inks → keep rough print evidence inside precise geometry → align restrained copy to the same structure
+```
+
+If an unrelated photograph could replace the source without materially changing the core motif, supported meaning, geometric parent, silhouette/negative-space relation, ink hierarchy, or type alignment, the result is not 031.
+
+## The 031 visual contract
+
+- **Source identity:** at least three specific cues preserve proportion, contour flow, pose, direction, action, function, and relation.
+- **Source identity:** at least three specific cues preserve proportion, contour flow, pose, direction, action, function, and relation.
+- **Meaning before objects:** one supported theme, cultural property, or emotional relation decides what survives; the design never translates every visible element.
+- **One core motif:** silhouette, negative space, enlargement, form merging, and symbolic reduction keep identity while carrying the deeper meaning.
+- **One geometric parent:** a source-derived circle, square, triangle, arc, axis, or repeated ratio visibly governs motif, helpers, type, and whitespace.
+- **Roughness within order:** broken ink, abrasion, exposed paper, uneven density, and slight registration shift stay mainly inside crisp silhouettes and geometry.
+- **Source ink hierarchy:** bright paper, one deep structural ink, and one or two source-derived theme inks build clean area, value, and overprint relations.
+- **Every form earns its place:** each element has a source, meaning, and structural duty; random folklore motifs and decorative scatter are removed.
+- **Subordinate typography:** one concise title and only useful micro-notes align, nest, or interweave with an axis, tangent, negative shape, or boundary.
 
 ## The original brief is authoritative
 
