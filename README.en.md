@@ -16,18 +16,7 @@
 
 </div>
 
-> ONE CORE MOTIF · SOURCE-DERIVED GEOMETRY · FOLK CATALOGUE · ROUGH INTERNAL INK · CRISP ORDER
-
-XXD Panel 031 is an image-generation Skill for Codex and compatible agents. It first understands the photograph's supported meaning, cultural character, or emotional relation, then reduces the source to one principal visual motif and only the few supporting forms truly needed for narrative.
-
-A circle, square, triangle, arc, axis, or repeated proportion is derived from the subject itself as one geometric parent. Motif, helpers, type, and whitespace share its alignments, tangencies, common axes, nesting, mirroring, progression, and crops. Bright paper, one deep structural ink, one or two source colours, and woodblock-rubbing or dry-screenprint wear inside crisp boundaries create a meeting of folk catalogue, antiquarian print, and contemporary design.
-
 ## Samples · From X
-
-### Primary samples · VOL.031
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090606881987600812) · 2026-08-21<br>
-> GPT2 x 拓印粗粝 x 做旧 x 印刷 x 美学提示词 x VOL.031
 
 <table>
   <tr>
@@ -35,6 +24,11 @@ A circle, square, triangle, arc, axis, or repeated proportion is derived from th
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 031 sample 2"></a></td>
   </tr>
 </table>
+
+### Primary samples · VOL.031
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090606881987600812) · 2026-08-21<br>
+> GPT2 x 拓印粗粝 x 做旧 x 印刷 x 美学提示词 x VOL.031
 
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812">View the original post and full prompt →</a></p>
 
@@ -58,6 +52,12 @@ A circle, square, triangle, arc, axis, or repeated proportion is derived from th
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 031 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> ONE CORE MOTIF · SOURCE-DERIVED GEOMETRY · FOLK CATALOGUE · ROUGH INTERNAL INK · CRISP ORDER
+
+XXD Panel 031 is an image-generation Skill for Codex and compatible agents. It first understands the photograph's supported meaning, cultural character, or emotional relation, then reduces the source to one principal visual motif and only the few supporting forms truly needed for narrative.
+
+A circle, square, triangle, arc, axis, or repeated proportion is derived from the subject itself as one geometric parent. Motif, helpers, type, and whitespace share its alignments, tangencies, common axes, nesting, mirroring, progression, and crops. Bright paper, one deep structural ink, one or two source colours, and woodblock-rubbing or dry-screenprint wear inside crisp boundaries create a meeting of folk catalogue, antiquarian print, and contemporary design.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 031 right for you?
