@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 031
+# 🦁 XXD Panel 031｜寓意拓印
 
 ### 把照片提炼成一个寓意先行、几何严谨、拓印粗粝的核心母题
 

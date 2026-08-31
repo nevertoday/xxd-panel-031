@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 031
+# 🦁 XXD Panel 031｜Allegorical Rubbing
 
 ### Distil the photograph into one meaning-led geometric motif with tactile folk-rubbing ink
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 031
+# 🦁 XXD Panel 031｜우의적 탁본
 
 ### 사진을 의미 중심의 기하 민속 탁인 모티프로
 

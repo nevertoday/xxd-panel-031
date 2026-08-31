@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 031
+# 🦁 XXD Panel 031｜寓意の拓本
 
 ### 写真を、意味先行の幾何学的な民俗拓印モチーフへ
 
