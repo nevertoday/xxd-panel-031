@@ -19,67 +19,33 @@
 
 ## 16:9 좌우 구성 예시
 
+서로 다른 원본 네 장으로 만든 16:9 완성 캔버스. 왼쪽은 실사, 오른쪽은 이 Panel 디자인, 정확히 50:50.
+
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 031 예시 5"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 031 예시 6"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 031 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 031 Sample 6"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 031 예시 7"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 031 예시 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 031 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 031 Sample 8"></td>
   </tr>
 </table>
 
 ## 3:4 상하 구성 예시
 
-위 16:9 예시와 같은 네 개의 독립 소스를 완전한 3:4 상하 캔버스로 다시 생성했습니다. 위쪽은 현실 사진을 유지하고 아래쪽은 Panel 031의 원본 프롬프트에 따라 재구성합니다. 영어 문구는 각 사진의 내용·분위기·함의에서만 생성했으며 모든 결과를 개별 검수했습니다.
+16:9 세트와 다른 원본 네 장으로 만든 3:4 상하 완성 캔버스. 위는 실사, 아래는 디자인, 정확히 50:50.
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 031 추가 상하 예시 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 031 추가 상하 예시 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 031 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 031 additional top-bottom sample 2"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 031 추가 상하 예시 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 031 추가 상하 예시 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 031 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 031 additional top-bottom sample 4"></td>
   </tr>
 </table>
-
-### 기본 예시 · VOL.031
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090606881987600812) · 2026-08-21<br>
-> GPT2 x 拓印粗粝 x 做旧 x 印刷 x 美学提示词 x VOL.031
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090606881987600812">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-### 추가 예시
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090753061857931599) · 2026-08-21<br>
-> GPT2 x 几何 x 美学 x 提示词 x 补充<br>
-> 작성자가 이 추가 예시도 XXD Panel 031에 해당함을 확인했습니다.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-01.jpg" alt="XXD Panel 031 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-02.jpg" alt="XXD Panel 031 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-03.jpg" alt="XXD Panel 031 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599"><img src="./assets/examples/supplement-04.jpg" alt="XXD Panel 031 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090753061857931599">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 031의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
-
-> 하나의 핵심 모티프 · 원본 기반 기하 모체 · 민속 도록 · 내부의 거친 인쇄 흔적 · 외부의 정밀한 질서
-
-XXD Panel 031는 Codex와 호환 에이전트를 위한 이미지 생성 Skill입니다. 사진이 뒷받침하는 핵심 의미, 문화적 성격 또는 감정 관계를 먼저 이해한 뒤, 원본을 하나의 주요 시각 모티프와 서사에 꼭 필요한 소수의 보조 형태로 줄입니다.
-
-주제 자체에서 원, 사각형, 삼각형, 호, 축 또는 반복 비율 하나를 기하 모체로 도출하고 모티프, 글자와 여백을 정렬, 접선, 공통축, 중첩, 거울대칭, 비례 진행과 크롭으로 묶습니다. 밝은 종이, 하나의 짙은 구조색, 원본 기반 한두 가지 주제색, 정밀한 경계 안쪽에만 남는 목판 탁인과 드라이 스크린 질감이 민속 도록, 고물 탁본과 현대 디자인을 연결합니다.
-
-<!-- xxd-human-intro:start -->
 ## 적합한 상황과 해결하는 문제
 
 사진을 포스터, 표지, 소셜 콘텐츠 또는 배경화면으로 사용할 때 핵심 과제는 단순히 화풍을 바꾸는 것이 아닙니다. 다시 디자인한 뒤에도 대상의 정체성, 중요한 관계, 분위기와 식별성을 유지해야 합니다.
