@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 031｜Allegorical Rubbing: distils a photo into one meaning-led core motif: it first reads the subject's symbolism or cultural character, then rebuilds it as a single motif with very few meaningful supporting forms through silhouette, negative space, merging and symbolic simplification, all locked to a strict geometric skeleton of circles, squares, triangles, arcs, axes or repeated ratios, on bright pale paper with one dark colour for structure and one or two theme colours from the photo, in a woodcut-rubbing and dry-brush screenprint texture whose broken ink stays inside the forms while edges stay crisp, plus a few small titles and notes on the geometry. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-031 or asks for folk-rubbing motifs, woodcut-print symbolic posters or geometric cultural-emblem graphics from a photo.",
+  "short_description": "寓意拓印：先读懂照片的寓意，再提炼成一个几何严谨、拓印粗粝的核心母题",
+  "zh-CN": {
+    "name": "寓意拓印",
+    "tagline": "先读懂照片背后的寓意，再提炼成一个几何严谨、带拓印粗粝感的核心母题。",
+    "look": "不逐一翻译照片里的元素，也不加泛泛的传统纹样，只留一个核心视觉母题和极少几个真正有叙事意义的辅助形，用剪影、负形、局部放大、形态合并和符号化来表达它背后的意义。画面建立在严谨的几何骨架上，从主体结构里提炼圆、方、三角、弧线、轴线或重复比例，所有图形、文字和留白都与之对齐、共轴、嵌套或按比例递进；远看秩序清楚，近看才见印痕。底是明亮的浅色纸，一个深色撑起骨架，再用一到两个照片里的主题色。质感是木刻拓印、干刷丝网和旧图录印刷，断墨、擦痕和露底只在图形内部，边界保持清楚准确。文字只是少量标题和微型注释，顺着几何轴线或负形排布。",
+    "traits": [
+      "核心母题",
+      "民俗图录",
+      "粗粝印痕",
+      "精确秩序",
+      "象征"
+    ],
+    "good": [
+      "本身带寓意或文化感的主体：石狮、门神、鲤鱼、石榴、灯笼",
+      "有象征意义的动植物和器物：仙鹤、莲花、一把团扇、一口老钟",
+      "想做成节庆海报、文化品牌标志或图录式插画的照片"
+    ],
+    "poor": [
+      "元素很多、彼此无关的随手抓拍，难以提炼出一个母题",
+      "想要写实插画，或想把传统纹样铺满画面做装饰的需求",
+      "想要灰脏做旧、固定民俗大红大绿配色的效果"
+    ]
+  },
+  "en": {
+    "name": "Allegorical Rubbing",
+    "tagline": "Reads the meaning behind a photo first, then distils it into one geometric motif with the rough texture of a folk rubbing.",
+    "look": "The photo's elements are not translated one by one, and no generic traditional patterns are added: only one core motif and a very few supporting forms that truly carry the story remain, expressing the meaning behind the subject through silhouette, negative space, enlarged details, merged shapes and symbolic simplification. The picture rests on a strict geometric skeleton drawn from the subject's own structure, circles, squares, triangles, arcs, axes or repeated ratios, and every shape, line of text and empty area aligns with it, shares its axis, nests inside it or steps in proportion; from afar the order is clear, up close the print marks appear. The ground is bright pale paper with one dark colour carrying the structure and one or two theme colours from the photo. The texture mixes woodcut rubbing, dry-brush screenprint and old catalogue printing, with broken ink, scuffs and bare patches only inside the forms while edges stay crisp and exact. Text is just a few small titles and notes along the geometric axes or negative shapes.",
+    "traits": [
+      "Core motif",
+      "Folk catalogue",
+      "Rough print marks",
+      "Precise order",
+      "Symbolism"
+    ],
+    "good": [
+      "Subjects that already carry meaning or culture: a stone lion, a door god, a carp, a pomegranate, a lantern",
+      "Symbolic animals, plants and objects: a crane, a lotus, a round fan, an old bell",
+      "Photos you want as a festival poster, cultural brand emblem or catalogue-style illustration"
+    ],
+    "poor": [
+      "Casual snapshots full of unrelated things, where no single motif can be drawn out",
+      "Requests for realistic illustration, or for traditional patterns spread everywhere as decoration",
+      "Requests for a grimy aged look or stock folk red-and-green colours"
+    ]
+  },
+  "ja": {
+    "name": "寓意の拓本",
+    "tagline": "まず写真の背後にある意味を読み取り、幾何学的に厳密で拓本のざらつきを持つ一つの中心モチーフにまとめます。",
+    "look": "写真の要素を一つずつ置き換えたり、ありきたりな伝統文様を足したりはせず、中心となるモチーフ一つと、本当に物語を担う補助の形をごくわずかだけ残し、シルエット、負の形、部分の拡大、形の合体、記号化で、その背後の意味を表します。画面は厳密な幾何学の骨組みの上に成り立ち、主役自身の構造から円、四角、三角、弧、軸、繰り返す比率を取り出し、すべての形、文字、余白をそれにそろえ、軸を共有させ、入れ子にし、比率で段階づけます。遠目には秩序がはっきりし、近づくと刷りの跡が見えます。地は明るい淡い紙で、暗い色一つが骨組みを支え、写真から取ったテーマ色を一、二色使います。質感は木版の拓本、ドライブラシのシルクスクリーン、古い図録の印刷を混ぜたもので、かすれ、こすれ、地のぞきは形の内側だけにあり、輪郭はくっきり正確に保ちます。文字は少しの小さなタイトルと注記だけで、幾何学の軸や負の形に沿って置きます。",
+    "traits": [
+      "中心モチーフ",
+      "民俗図録",
+      "ざらついた刷り跡",
+      "正確な秩序",
+      "象徴"
+    ],
+    "good": [
+      "それ自体に意味や文化を持つ主役：石の獅子、門神、鯉、ザクロ、提灯",
+      "象徴性のある動植物や器物：鶴、蓮、うちわ、古い鐘",
+      "祭りのポスター、文化的なブランドの紋章、図録風のイラストにしたい写真"
+    ],
+    "poor": [
+      "関係のないものがたくさん写った何気ないスナップ（一つのモチーフを引き出しにくくなります）",
+      "写実的なイラストや、伝統文様を一面に敷き詰めた装飾を求める場合",
+      "薄汚れた古び、決まりきった民俗調の赤と緑の配色を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "우의적 탁본",
+    "tagline": "먼저 사진 뒤에 담긴 뜻을 읽고, 기하학적으로 엄밀하고 탁본의 거친 질감을 지닌 핵심 모티프 하나로 정리합니다.",
+    "look": "사진의 요소를 하나하나 옮기지도, 흔한 전통 문양을 덧붙이지도 않습니다. 핵심 시각 모티프 하나와 정말로 이야기를 담은 보조 형태 몇 개만 남기고, 실루엣, 음의 형태, 부분 확대, 형태 합치기, 기호화로 그 뒤에 담긴 의미를 표현합니다. 화면은 엄격한 기하 골격 위에 서며, 주인공 자체의 구조에서 원, 사각형, 삼각형, 호, 축, 반복 비율을 뽑아 모든 도형, 글자, 여백이 그것과 정렬하고 축을 공유하고 겹쳐 들어가고 비율로 단계를 이루게 합니다. 멀리서는 질서가 분명하고, 가까이서는 찍힌 자국이 보입니다. 바탕은 밝고 연한 종이이며, 어두운 색 하나가 골격을 받치고 사진에서 가져온 주제색 한두 가지를 씁니다. 질감은 목판 탁본, 드라이 브러시 실크스크린, 옛 도록 인쇄를 섞은 것으로, 먹 끊김, 긁힘, 바탕 드러남은 도형 안쪽에만 있고 경계는 또렷하고 정확합니다. 글자는 작은 제목과 메모 몇 개뿐이며 기하 축이나 음의 형태를 따라 놓입니다.",
+    "traits": [
+      "핵심 모티프",
+      "민속 도록",
+      "거친 찍힘 자국",
+      "정확한 질서",
+      "상징"
+    ],
+    "good": [
+      "그 자체로 뜻이나 문화를 지닌 주인공: 돌사자, 문신, 잉어, 석류, 등롱",
+      "상징성이 있는 동식물과 기물: 두루미, 연꽃, 둥근 부채, 오래된 종",
+      "명절 포스터, 문화 브랜드 엠블럼, 도록식 일러스트로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "서로 관계없는 것이 가득한 무심한 스냅(모티프 하나를 뽑아내기 어렵습니다)",
+      "사실적인 일러스트나 전통 문양을 화면 가득 깔아 장식하길 원하는 경우",
+      "지저분하게 낡은 느낌이나 틀에 박힌 민속풍 빨강·초록 배색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "نقش رمزي بالفرك",
+    "tagline": "يقرأ المعنى الكامن وراء الصورة أولاً، ثم يختصره في نقش هندسي واحد بملمس الفرك الشعبي الخشن.",
+    "look": "لا تُترجم عناصر الصورة واحداً واحداً، ولا تُضاف زخارف تقليدية عامة: لا يبقى إلا نقش بصري جوهري واحد وأشكال مساعدة قليلة جداً تحمل الحكاية فعلاً، تعبّر عن المعنى الكامن وراء العنصر بالظلال والفراغ السلبي وتكبير التفاصيل ودمج الأشكال والتبسيط الرمزي. تقوم الصورة على هيكل هندسي صارم مستمد من بنية العنصر نفسه، من دوائر ومربعات ومثلثات وأقواس ومحاور ونِسب متكررة، ويتحاذى معه كل شكل وسطر وفراغ أو يشاركه المحور أو يتداخل فيه أو يتدرج بنسبته؛ من بعيد يتضح النظام، ومن قريب تظهر آثار الطباعة. الأرضية ورق فاتح مشرق، يحمل البنية فيه لون داكن واحد، مع لون أو لونين من ألوان الصورة. يمزج الملمس بين فرك النقوش الخشبية والطباعة الحريرية بالفرشاة الجافة وطباعة الكتالوجات القديمة، فتبقى انقطاعات الحبر والخدوش والفراغات داخل الأشكال فقط، بينما تظل الحواف حادة دقيقة. النص عناوين وملاحظات صغيرة قليلة على المحاور الهندسية أو الأشكال السالبة.",
+    "traits": [
+      "نقش جوهري",
+      "كتالوج شعبي",
+      "آثار طباعة خشنة",
+      "نظام دقيق",
+      "رمزية"
+    ],
+    "good": [
+      "عناصر تحمل في ذاتها معنى أو ثقافة: أسد حجري، حارس باب، سمكة شبوط، رمانة، فانوس",
+      "حيوانات ونباتات وأشياء رمزية: كركي، لوتس، مروحة مستديرة، جرس قديم",
+      "صور تريدها ملصق مهرجان أو شعاراً لعلامة ثقافية أو رسماً بأسلوب الكتالوجات"
+    ],
+    "poor": [
+      "لقطات عابرة مليئة بأشياء لا رابط بينها، يصعب أن يُستخرج منها نقش واحد",
+      "طلب رسم واقعي، أو نشر الزخارف التقليدية في كل مكان للزينة",
+      "طلب مظهر متّسخ قديم أو ألوان شعبية جاهزة بالأحمر والأخضر"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-031
-description: "Create XXD Panel 031 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-031 or requests the exact Panel 031 style."
+description: "XXD Panel 031｜Allegorical Rubbing: distils a photo into one meaning-led core motif: it first reads the subject's symbolism or cultural character, then rebuilds it as a single motif with very few meaningful supporting forms through silhouette, negative space, merging and symbolic simplification, all locked to a strict geometric skeleton of circles, squares, triangles, arcs, axes or repeated ratios, on bright pale paper with one dark colour for structure and one or two theme colours from the photo, in a woodcut-rubbing and dry-brush screenprint texture whose broken ink stays inside the forms while edges stay crisp, plus a few small titles and notes on the geometry. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-031 or asks for folk-rubbing motifs, woodcut-print symbolic posters or geometric cultural-emblem graphics from a photo."
 ---
 
 # XXD Panel 031

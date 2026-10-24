@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-031"
-  short_description: "Create Panel 031 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-031; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "寓意拓印：先读懂照片的寓意，再提炼成一个几何严谨、拓印粗粝的核心母题"
+  default_prompt: "Use $xxd-panel-031 to turn my photo into Allegorical Rubbing artwork."
 
 policy:
   allow_implicit_invocation: true
